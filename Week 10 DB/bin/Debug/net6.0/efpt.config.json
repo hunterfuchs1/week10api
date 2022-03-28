@@ -1,0 +1,59 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "Adventureworks2019Context",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "Week_10_DB",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[HumanResources].[Department]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[HumanResources].[Employee]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[HumanResources].[EmployeeDepartmentHistory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[HumanResources].[EmployeePayHistory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[HumanResources].[JobCandidate]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[HumanResources].[Shift]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-CF7461S.AdventureWorks2019",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
